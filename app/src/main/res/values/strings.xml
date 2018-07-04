@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HandlerDemo</string>
+    <string name="createThread">创建一个线程</string>
+    <string name="sendMessage">给UI线程发送信息</string>
+</resources>
